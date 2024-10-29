@@ -6,39 +6,48 @@ Population Age Distribution Visualization
 This project allows you to create a bar chart to visualize the age distribution within a population dataset. It's a tool for gaining insights into the age demographics of a population.
 
 Table of Contents
-.Introduction
-.Prerequisites
-.Getting Started
-.Usage
-.Customization
-.Examples
-.Contributing
 
-Introduction
+1.Introduction
+2.Prerequisites
+3.Getting Started
+4.Usage
+5.Customization
+6.Examples
+7.Contributing
+
+Introduction:
+
 Understanding the distribution of ages within a population is crucial for various analyses and decision-making processes. This project simplifies the process by providing a Python script to create a bar chart visualisation.
 
-Prerequisites
+Prerequisites:
+
 Before using the code, ensure you have the following prerequisites installed: -Python 3.x -Pandas -Matplotlib
 
 You can install the required Python libraries using pip: pip install pandas matplotlib
 
-Getting Started
+Getting Started:
+
 1.Data Preparation
+
 Ensure you have the relevant population data in an Excel file (e.g., "2.1_Population_dynamics.xlsx") located in the same directory as your script.
 The Excel file should contain a column with age data (e.g., 'Age').
+
 2.Running the Script
+
 Open a Python environment (e.g., Jupyter Notebook, Python script).
 Copy and paste the provided code for creating a bar chart visualization into your Python environment.
+
 3.Executing the Visualization
 
 Run the script.
 The code will load the data, process it, and create a bar chart representing the age distribution in the population dataset.
-Usage
-Use this project to:
 
-Gain insights into the age distribution of a population.
-Visualise age demographics for various analysis purposes.
-Customization
+Usage:
+
+1.Gain insights into the age distribution of a population.
+2.Visualise age demographics for various analysis purposes.
+3.Customization
+
 You can customise the visualisation by making the following modifications to the code:
 
 Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
@@ -49,5 +58,6 @@ https://private-user-images.githubusercontent.com/70780478/265864613-d0e7f634-3c
 
 Age Distribution Bar Chart
 
-Contributing
+Contributing:
+
 If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
