@@ -8,11 +8,17 @@ This project allows you to create a bar chart to visualize the age distribution 
 Table of Contents
 
 1.Introduction
+
 2.Prerequisites
+
 3.Getting Started
+
 4.Usage
+
 5.Customization
+
 6.Examples
+
 7.Contributing
 
 Introduction:
